@@ -13,7 +13,7 @@ Add the autoLink attribute to enable URLs in the text to be active and clickable
 
 ## Task
 
-[Screenshot (18)](https://user-images.githubusercontent.com/50478966/170832350-d110dde2-4585-477b-a63a-214432c6fca5.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/50478966/170832350-d110dde2-4585-477b-a63a-214432c6fca5.png)
 
 ## Coding Challenge
 
